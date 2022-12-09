@@ -8,6 +8,7 @@ body{
 	background-color: #050124;
 	font-family: sans-serif;
 }
+/* Global Variables*/
 ul{
   list-style: none;
 }
@@ -15,6 +16,7 @@ a{
 	text-decoration: none;
 	color: #fff;
 }
+/* Start Content Section*/
 .content{
 	background-color: #06012c;
   border-radius: 5px;
